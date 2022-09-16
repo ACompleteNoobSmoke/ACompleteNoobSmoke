@@ -4,7 +4,7 @@ Hi 👋 My name is Omoruyi Omofonmwan
 Full Stack Developer
 --------------------
 
-With a strong desire to learn and create I transitioned into Software Engineer 6 years ago. In that time I specialize in backend development using Java, learning about its different frameworks and libraries such as Java Core, Hibernate and Spring Framework. I also have experienced with other languages & tools such as MySQL and built web applications using HTML, CSS, Vanilla JS & NodeJS. I now provide technical solutions as a Service Management Analyst working within Cloud Infrastructure Services using cloud based workflow technology called ServiceNow.
+With a strong desire to learn and create I transitioned into Software Engineer 6 years ago. In that time I specialize in backend development using Java, learning about its different frameworks and libraries such as Java Core, Hibernate and Spring Framework. I also have experienced with other languages & tools such as MySQL and built web applications using HTML, CSS, Vanilla JS & NodeJS. I am currently a developer providing solutions with tools such as Java, JavaScript & MySQL.
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [OmoruyiOmofonmwan@yahoo.com](mailto:OmoruyiOmofonmwan@yahoo.com)
