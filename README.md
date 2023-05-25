@@ -1,14 +1,14 @@
 Hi 👋 My name is Omoruyi Omofonmwan
 ===================================
 
-Full Stack Developer
+Senior Full Stack Developer
 --------------------
 
-With a strong desire to learn and create I transitioned into Software Engineer 7 years ago. In that time I specialize in backend development using Java, learning about its different frameworks and libraries such as Java Core, Hibernate and Spring Framework. I also have experienced with other languages & tools such as MySQL and built web applications using HTML, CSS, Vanilla JS & NodeJS. I am currently a developer providing solutions with tools such as Java, JavaScript & MySQL.
+With a strong desire to learn and create I transitioned into Software Engineer 7 years ago. In that time I specialize in backend development using Java, learning about its different frameworks and libraries such as Java Core, Hibernate and Spring Framework. I also have experienced with other languages & tools such as MySQL and built web applications using HTML, CSS, Vanilla JS & NodeJS. I am currently a senior full stack developer providing solutions with tools such as Java, JavaScript, NodeJS, Angular & MySQL.
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [OmoruyiOmofonmwan@yahoo.com](mailto:OmoruyiOmofonmwan@yahoo.com)
-* 🧠  I'm learning ReactJS, AWS & ServiceNow
+* 🧠  I'm learning ReactJS, AWS & Kubernetes
 * 🤝  I'm open to collaborating on Any Fun & Challenging Projects
 * ⚡  Love Mixed Martial Arts
 
