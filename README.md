@@ -4,11 +4,11 @@ Hi 👋 My name is Omoruyi Omofonmwan
 Senior Full Stack Developer
 --------------------
 
-With a strong desire to learn and create I transitioned into Software Engineer 7 years ago. In that time I specialize in backend development using Java, learning about its different frameworks and libraries such as Java Core, Hibernate and Spring Framework. I also have experienced with other languages & tools such as MySQL and built web applications using HTML, CSS, Vanilla JS & NodeJS. I am currently a senior full stack developer providing solutions with tools such as Java, JavaScript, NodeJS, Angular & MySQL.
+Programmer with 5+ years professional experience working with variety of clients, managers, and companies to provide technical solutions. I am currently a Senior Full Stack Developer at Deloitte using tools such as Java, Springboot, NodeJS, HTML, CSS, JavaScript, ReactJS, Angular, MySQL, and MongoDB to problem solve and create products. My past experiences at different companies have given me the opportunity to take on multiple roles such as Developer, Mentor, Architect, Team Lead, and Change Manager. My passion for coding & problem solving means I am continuously looking for ways to challenge myself and gain knowledge about new tools and best practices.
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [OmoruyiOmofonmwan@yahoo.com](mailto:OmoruyiOmofonmwan@yahoo.com)
-* 🧠  I'm learning ReactJS, AWS & Kubernetes
+* 🧠  I'm learning Github Actions
 * 🤝  I'm open to collaborating on Any Fun & Challenging Projects
 * ⚡  Love Mixed Martial Arts
 
