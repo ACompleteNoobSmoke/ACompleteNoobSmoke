@@ -8,9 +8,9 @@ Programmer with 6+ years professional experience working with variety of clients
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [OmoruyiOmofonmwan@yahoo.com](mailto:OmoruyiOmofonmwan@yahoo.com)
-* 🧠  I'm learning Github Actions
+* 🧠  I'm learning Kubernetes
 * 🤝  I'm open to collaborating on Any Fun & Challenging Projects
-* ⚡  Love Mixed Martial Arts
+* ⚡  Love Mixed Martial Arts, Boxing, Film & Video Games
 
 ### Skills
 
